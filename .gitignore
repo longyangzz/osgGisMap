@@ -1,0 +1,10 @@
+QtGuiApplication1/GeneratedFiles/
+QRibbon/x64/
+QtGuiApplication1/x64/
+QRibbon/project/test/
+bin/
+auxiliary/
+QRibbon/ipch/
+lib/
+QRibbon/debug/
+.vs/

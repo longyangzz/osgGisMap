@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/menuaction">
+        <file>Resources/menu/cloudact.png</file>
+        <file>Resources/menu/createLayeract.png</file>
+        <file>Resources/menu/loadLayeract.png</file>
+        <file>Resources/menu/loadTerrainact.png</file>
+        <file>Resources/menu/onlineact.png</file>
+        <file>Resources/menu/settingact.png</file>
+        <file>Resources/menu/googlemapact.png</file>
+    </qresource>
+</RCC>
