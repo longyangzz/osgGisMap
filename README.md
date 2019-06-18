@@ -8,4 +8,4 @@ an open demo base on Qt5 and osgearth 、osg 3.6
 
 ## 运行效果图
 
-![主界面](.\screenshot\mainwindow.png)
+![主界面](screenshot\mainwindow.png)
