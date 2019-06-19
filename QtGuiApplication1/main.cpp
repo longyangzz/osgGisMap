@@ -42,7 +42,8 @@ int main(int argc, char** argv)
 	QGridLayout *grid = new QGridLayout;
 	md->setLayout(grid);
 	//osgQt::initQtWindowingSystem();
-	
+	osg::ArgumentParser arguments(&argc, argv);
+	auto aa = arguments.getApplicationName();
 	osg::ref_ptr<osgEarth::Map> map = new osgEarth::Map;
 	osgViewer::ViewerBase::ThreadingModel threadingModel = osgViewer::ViewerBase::SingleThreaded;
 	osg::ref_ptr<osgEarth::MapNode> mapNode = new osgEarth::MapNode(map);
